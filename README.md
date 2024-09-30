@@ -1,4 +1,9 @@
-### Hi there 👋
+# Howdy
+
+The learning approach I aspire to have is based on [this beccause I like her](https://faultlore.com/blah/faultlore/) while my work is currently at CNSG as an intern.
+
+:D
+
 
 <!--
 **jovillarrealm/jovillarrealm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
