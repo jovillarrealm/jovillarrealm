@@ -1,6 +1,7 @@
 # Howdy
 
-The learning approach I aspire to have is based on [this because I like her](https://faultlore.com/blah/faultlore/) while my work is currently at CNSG as an intern.
+The learning approach I aspire to have is based on [this because I like her](https://faultlore.com/blah/faultlore/).
+I work at CNSG as an intern.
 
 :D
 
